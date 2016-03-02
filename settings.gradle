@@ -1,1 +1,1 @@
-include ':builder', ':prototype', ':singleton', ':factory', ':absfactory', ':strategy', ':state', ':handle', ':command'
+include ':builder', ':prototype', ':singleton', ':factory', ':absfactory', ':strategy', ':state', ':handle', ':command', ':memorandum'

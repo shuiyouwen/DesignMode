@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/command" />
             <option value="$PROJECT_DIR$/factory" />
             <option value="$PROJECT_DIR$/handle" />
+            <option value="$PROJECT_DIR$/memorandum" />
             <option value="$PROJECT_DIR$/prototype" />
             <option value="$PROJECT_DIR$/singleton" />
             <option value="$PROJECT_DIR$/state" />
